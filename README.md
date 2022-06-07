@@ -7,4 +7,4 @@ This detector is based on Faster R-CNN, we designed our own dataset of leaves.
 ## Result
 1. The detected results including images and video
 2. Original images and video
-
+(Results/Detected/21.jpg)
